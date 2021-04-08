@@ -22,7 +22,7 @@ function App() {
 
             <div className="row center">
                 
-                {
+                {   //CHange
                     //In javascript, Array.map() / map() is a function that allows you to transform any 
                     //array into a different array based upon some condition
                     //An array transformed by map() function will always have the same length as the original array
